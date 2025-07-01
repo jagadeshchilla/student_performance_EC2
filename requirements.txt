@@ -1,6 +1,9 @@
-Flask
 pandas
 numpy
+seaborn
+matplotlib
 scikit-learn
-dill
 catboost
+xgboost
+dill
+Flask
